@@ -21,4 +21,4 @@ Instagram:  [@_itspranav](https://instagram.com/_itspranav)
 
 LinkedIn: [@pranavkanupam](https://www.linkedin.com/in/pranavkanupam/)
 
-FB: [pranavkanupam](https://fb.com/pranavkanupam)
+
