@@ -1,7 +1,7 @@
 # Pranav Kumar Anupam
 >### About Me
 >
->I am pursuing _BSc (H) Statistics_ from **Ramjas College DU**. I joined Ramjas College in 2019 and  graduated in 2022.
+>I have done _BSc (H) Statistics_ from **Ramjas College DU**. I joined Ramjas College in 2019 and  graduated in 2022.
 >
 >I come from Madhepura, Bihar, India. 
 >
