@@ -22,3 +22,4 @@ Instagram:  [@_itspranav](https://instagram.com/_itspranav)
 LinkedIn: [@pranavkanupam](https://www.linkedin.com/in/pranavkanupam/)
 
 
+<a rel="me" href="https://masto.ai/@pranavanupam">Mastodon</a>
