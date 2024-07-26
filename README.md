@@ -1,15 +1,16 @@
 # Pranav Kumar Anupam
 >### About Me
 >
->I have done _BSc (H) Statistics_ from **Ramjas College DU**. I joined Ramjas College in 2019 and  graduated in 2022.
+>I am 2nd year Masters student in [_Department of Economic Sciences_](https://iitk.ac.in/eco/) , **IIT Kanpur**. I am expected to graduate by May 2025.
+>I have done _BSc (H) Statistics_ from **Ramjas College, Delhi University** (2019-22).
 >
 >I come from Madhepura, Bihar, India. 
 >
 >I have keen interest in computers. 
 >
->My primary academic interest are in Data Analysis and Actuarial Science. I have working knowledge of R, Python, C. I have used Arch Linux, Windows and Ubuntu. 
+>My primary interest are in Data Analysis and Data Science. I have working knowledge of R, Python, C. I have used Arch Linux, Windows and Ubuntu. 
 >
->I like to read novels, short stories, poems. I am fluent in both English and Hindi. 
+>I like to read novels, short stories, poems. I am fluent in  English & Hindi. 
 
 ### Contact Me
 
