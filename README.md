@@ -8,9 +8,9 @@
 >
 >I have keen interest in computers. 
 >
->My primary interest are in Data Analysis and Data Science. I have working knowledge of R, Python, C. I have used Arch Linux, Windows and Ubuntu. 
+>My primary interest are in Data Analysis and Data Science. I have working knowledge of R, Python, C. I have used Arch Linux, Windows and Debian. 
 >
->I like to read novels, short stories, poems. I am fluent in  English & Hindi. 
+>I like to read novels, short stories, poems. I run. I swim. Often you can find me wondering around without any destination.  I am fluent in  English & Hindi. 
 
 ### Contact Me
 
