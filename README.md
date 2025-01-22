@@ -14,7 +14,7 @@
 
 ### Contact Me
 
-Mail: [kumarpranav033@gmail.com](mailto:kumarpranav033@gmail.com)
+Mail: [kumarpranav033@gmail.com](mailto:pranavanupam@yahoo.com)
 
 Twitter: [@_itspranav](https://twitter.com/_itspranav)
 
